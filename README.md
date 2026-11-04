@@ -17,7 +17,7 @@ Kuriu greitus, saugius interneto sprendimus, valdau serverių infrastruktūrą i
 
 - 💼 Dirbu su individualiais web projektais, e-komercija ir sistemų diegimu.
 - 🛠️ Pagrindinis dėmesys: našumas, saugumas (Cloudflare, apsaugos taisyklės) ir švarus kodas.
-- 🌐 Pagrindiniai projektai: **[TavoWEB](https://tavoweb.lt)**, **[rekvi.lt](https://rekvi.lt)**.
+- 🌐 Projektai: **[TavoWEB](https://tavoweb.lt)**, **[rekvi.lt](https://rekvi.lt)**.
 
 ---
 
@@ -52,20 +52,14 @@ Kuriu greitus, saugius interneto sprendimus, valdau serverių infrastruktūrą i
 
 ---
 
-### 📊 GitHub Statistika
+### 📊 GitHub Aktyvumas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tavoweb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavoweb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavoweb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavoweb&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Profilio peržiūros:</sub><br/>
-  <img src="https://visitcount.itsvg.in/api?id=tavoweb&icon=6&color=3" alt="Lankytojų skaitiklis" />
+  <img src="https://komarev.com/ghpvc/?username=tavoweb&label=Profilio+peržiūros&color=0e75b6&style=flat-square" alt="Profilio peržiūros" />
 </div>
