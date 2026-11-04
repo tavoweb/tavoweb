@@ -8,7 +8,7 @@
     <a href="https://tavoweb.lt"><img src="https://img.shields.io/badge/🌐_TavoWEB.lt-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=2F81F7" alt="TavoWEB" /></a>
     <a href="https://rekvi.lt"><img src="https://img.shields.io/badge/📊_rekvi.lt-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=238636" alt="rekvi.lt" /></a>
     <a href="https://facebook.com/bartusevicius"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-    <a href="mailto:info@tavoweb.lt"><img src="https://img.shields.io/badge/Susisiekti-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+    <a href="mailto:mano@tavoweb.lt"><img src="https://img.shields.io/badge/Susisiekti-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   </p>
 
 </div>
